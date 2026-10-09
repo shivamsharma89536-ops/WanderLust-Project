@@ -117,7 +117,7 @@ Implements a full-stack architecture using the MVC (Model-View-Controller) desig
 
 | Role             | Technology                          |
 |------------------|-------------------------------------|
-| Frontend         | React, React Router, Axios          |
+| Frontend         |  React Router, Axios          |
 | Backend          | Node.js, Express.js, MongoDB (Mongoose) |
 | Authentication   | JWT (JSON Web Tokens)               |
 | Styles           | CSS Modules / Styled Components     |
