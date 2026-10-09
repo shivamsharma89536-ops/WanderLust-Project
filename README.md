@@ -137,7 +137,7 @@ Implements a full-stack architecture using the MVC (Model-View-Controller) desig
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Vinaykumar1809/WanderLust-Project.git
+   git clone https://github.com/shivamsharma89536-ops/WanderLust-Project.git
    cd WanderLust-Project
 
 2.Install dependencies in both client and server:
